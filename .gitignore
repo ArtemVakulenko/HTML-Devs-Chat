@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+/server/node_modules
+/server/package-lock.json
+package-lock.json
+/coverage
+/server/coverage
+/.idea
+.env
+# production
+/dist
