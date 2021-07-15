@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalIpts Should match snapshot 1`] = `"<div class=\\"styled__StIpts-cEsiqO cVGEcg\\"><input type=\\"text\\" value=\\"sad\\" class=\\"styled__StInput-ifVcmW bBpwQJ\\"/><input type=\\"text\\" value=\\"sad\\" class=\\"styled__StInput-ifVcmW bBpwQJ\\"/><label for=\\"upload\\" class=\\"styled__StFileIpt-fLkDRX iPkIEE\\">sad</label><input type=\\"file\\" id=\\"upload\\" hidden=\\"\\"/></div>"`;

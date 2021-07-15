@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatHEader 123 Should match snapshot 1`] = `"<div class=\\"styled__StChatDialogHeader-frWLNJ iLTYqh\\"><div class=\\"styled__StChatTitle-erdfFm fRrVrb\\"></div><button class=\\"styled__StIcon-chPeWD giwZPn\\"></button></div>"`;
+
+exports[`LoginPage 123 Should match snapshot 1`] = `"<div class=\\"styled__StChatDialogHeader-frWLNJ iLTYqh\\"><div class=\\"styled__StChatTitle-erdfFm fRrVrb\\"></div><button class=\\"styled__StIcon-chPeWD giwZPn\\"></button></div>"`;

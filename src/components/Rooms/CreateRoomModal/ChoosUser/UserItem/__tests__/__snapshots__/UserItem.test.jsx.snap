@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserItem Should match snapshot 1`] = `"<div class=\\"styled__StUserItem-hkWVlg erntXM\\"><div color=\\"[object Object]\\" class=\\"styled__StAvatarBlock-eLyBY ctoeMe\\"><img src=\\"../assets/img/defaultUserIcon.png\\"/><span>Offline</span></div><span></span><span class=\\"styled__StCheck-gAxtRK bYeHvX\\">+</span></div>"`;

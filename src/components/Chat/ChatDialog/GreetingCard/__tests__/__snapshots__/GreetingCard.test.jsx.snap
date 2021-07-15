@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatHeader Should match snapshot 1`] = `"<div class=\\"styled__StGreetingCardContainer-GpdgC dvsMpA\\"><div class=\\"styled__StGreetingCardMessage-hzfsPu iaAThl\\"></div></div>"`;

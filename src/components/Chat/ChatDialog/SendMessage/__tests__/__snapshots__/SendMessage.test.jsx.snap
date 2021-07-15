@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatHeader Should match snapshot 1`] = `"<div class=\\"styled__StSendMessageContainer-lnwVcU gYXjlf\\"><textarea class=\\"styled__StTextArea-cYwHWS hmAZYP\\"></textarea><button class=\\"styled__StIcon-chPeWD dNDmRl\\"></button></div>"`;

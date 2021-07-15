@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dialog 123 Should match snapshot 1`] = `"<div class=\\"styled__StDialogContainer-hphmKj kldXao\\"><div></div></div>"`;
+
+exports[`LoginPage 123 Should match snapshot 1`] = `"<div class=\\"styled__StDialogContainer-hphmKj kldXao\\"><div></div></div>"`;

@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatRoom Should match snapshot 1`] = `"<a><div class=\\"styled__StChatRoomContainer-fFLKRu dojhib\\"><img src=\\"src\\" class=\\"styled__StChatImg-kbqTCl hBkeLG\\"/><h1 class=\\"styled__AppTitle-bMNsHC jWDbjD\\">title</h1><div class=\\"styled__StInfo-ckAQui cfpCEt\\"><div class=\\"styled__StMessageCount-fPOoeU cQHHxW\\"><span>1</span></div></div></div></a>"`;

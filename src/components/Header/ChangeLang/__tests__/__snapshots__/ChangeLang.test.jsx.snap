@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChangeLang Should match snapshot 1`] = `"<select class=\\"styled__StSelect-ldZSMM iNEPZn\\"><option selected=\\"\\" value=\\"en\\">en</option><option value=\\"ru\\">ru</option><option value=\\"ar\\">ar</option></select>"`;

@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChangePhoto Should match snapshot 1`] = `"<div class=\\"styled__StChangePhoto-hqHpke kvzQnW\\"><img src=\\"img\\"/><label for=\\"upload\\" class=\\"styled__StFileIpt-fLkDRX iPkIEE\\">value</label><input type=\\"file\\" id=\\"upload\\" hidden=\\"\\"/></div>"`;

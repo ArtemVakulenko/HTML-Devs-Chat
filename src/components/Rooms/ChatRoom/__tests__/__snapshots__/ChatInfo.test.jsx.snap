@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatInfo havecount Should match snapshot 1`] = `"<div class=\\"styled__StInfo-ckAQui cfpCEt\\"><div class=\\"styled__StMessageCount-fPOoeU cQHHxW\\"><span>1</span></div></div>"`;
+
+exports[`ChatInfo withoutCount Should match snapshot 1`] = `"<div class=\\"styled__StInfo-ckAQui cfpCEt\\"></div>"`;

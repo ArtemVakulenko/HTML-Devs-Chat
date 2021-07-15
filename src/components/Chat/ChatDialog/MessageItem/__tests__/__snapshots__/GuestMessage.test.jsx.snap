@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GuestMessage 123 Should match snapshot 1`] = `"<div class=\\"styled__StGuestMessageContainer-egGbkY fdgoPp\\"><button class=\\"styled__StIcon-chPeWD bvoJqX\\"></button><div class=\\"styled__StGuestMessageItem-gZvHLK libSbh\\"><div class=\\"styled__StGuestName-gPkMPn jEiFwH\\"></div><div class=\\"styled__StGuestMessageContent-jIOva dGqMCY\\"></div><div class=\\"styled__StDate-dCFtOY fvsCbz\\"></div></div></div>"`;
+
+exports[`LoginPage 123 Should match snapshot 1`] = `"<div class=\\"styled__StGuestMessageContainer-egGbkY fdgoPp\\"><button class=\\"styled__StIcon-chPeWD bvoJqX\\"></button><div class=\\"styled__StGuestMessageItem-gZvHLK libSbh\\"><div class=\\"styled__StGuestName-gPkMPn jEiFwH\\"></div><div class=\\"styled__StGuestMessageContent-jIOva dGqMCY\\"></div><div class=\\"styled__StDate-dCFtOY fvsCbz\\"></div></div></div>"`;

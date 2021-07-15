@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChangeDataBtn Should match snapshot 1`] = `"<div class=\\"styled__StButtonUser-bYtjyH gNhnyN\\"><button class=\\"styled__StIcon-chPeWD eZnRst\\"></button><span>login</span></div>"`;

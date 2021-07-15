@@ -1,0 +1,3 @@
+export const CREATE_ROOM = 'CREATE_ROOM';
+export const NEW_MESSAGE = 'NEW_MESSAGE';
+export const NEW_UNREAD_MESSAGE = 'NEW_UNREAD_MESSAGE';

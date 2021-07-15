@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChangeTheme Should match snapshot 1`] = `"<button class=\\"styled__StIcon-chPeWD gbHxuZ\\"></button>"`;
